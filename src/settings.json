@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions",
+        "title": "Drive Innovation: Your Ultimate Car Rental Experience"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Innovation: Your Ultimate Car Rental Experience",
+  "subtitle": "Unlock a whole new level of freedom and convenience with cutting-edge car rental solutions"
+}
